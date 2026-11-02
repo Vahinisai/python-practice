@@ -2,7 +2,7 @@
 a = 10.8
 print(a)
 print(type(a))
-print(Id(a))
+print(id(a))
 a = 25
 print(a)
 print(type(a))
@@ -10,7 +10,7 @@ a = .689
 print(a)
 a = 3.4e2
 print(a)
-pritn(type(a))
+print(type(a))
 a = 9.62E-2
 print(a)
 print(9.8.2)
