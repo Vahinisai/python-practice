@@ -1,0 +1,18 @@
+a = True 
+print(a)
+print(type(a))
+print(Id(a))
+a = False
+print(a)
+print(type(a))
+print(True+True)
+print(True+False)
+print(False+False)
+print(False+True)
+print(True+True+True)
+pritn(25+10.8+True)
+print(True>False)
+print(True)
+print(False)
+print(true)
+print(false)
