@@ -1,0 +1,8 @@
+# complex object demo program
+a = 3+4j
+print(a)
+print(type(a))
+print(Id(a))
+print(a.real)
+print(type(a.real))
+print(type(a.imag))
