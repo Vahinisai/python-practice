@@ -1,0 +1,16 @@
+# Index   demo  program  (Home  work)
+a = 'Hyd'
+print(How  to  print  'H'  of  object  'a')
+print(How  to  print  'y'  of  object  'a')
+print(How  to  print  'd'  of  object  'a')
+print(a[3])
+print(How  to  print  'd'  of  object  'a')
+print(How  to  print  'y'  of  object  'a')
+print(How  to  print  'H'  of  object  'a')
+print(a[-4])
+print(a[0] ==  a[-3])
+a[2] = 'c'
+print(25[0])
+print('25'[0])
+print(True[1])
+print('True'[1])
