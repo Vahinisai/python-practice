@@ -3,7 +3,7 @@ a = 10.8
 print(a)
 print(type(a))
 print(id(a))
-a = 25
+a = 25.
 print(a)
 print(type(a))
 a = .689
