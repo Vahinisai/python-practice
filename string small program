@@ -1,8 +1,3 @@
-'''
-Tricky  program
-
-Find  outputs  (Home work)
-'''
 a = 'Hyd'
 print(a , id(a))
 a = a * 3  #  Is  it  valid
