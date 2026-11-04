@@ -15,7 +15,4 @@ print(int('25.4'))
 print(int('Ten'))
 
 
-'''
-int()  function
-----------------
-1) What  does  int(x)  do  ?  --->  Converts  object  'x'  to  integer
+
