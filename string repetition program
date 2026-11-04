@@ -1,4 +1,3 @@
-#  Find  outputs  (Home work)
 a = 'Hyd'
 print(a * 3)
 print(a * 2)
