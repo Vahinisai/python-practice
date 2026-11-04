@@ -1,4 +1,3 @@
-#  Find  outputs  (Home  work)
 a = "Rama Rao"
 print(a)
 print(type(a))
