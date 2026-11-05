@@ -1,0 +1,31 @@
+a = {10 : 'Hyd' , 10 : 'Sec'}
+print(a)
+print(len(a))
+b = {'R' : 'Red' , 'G' : 'Green' , 'B' : 'Blue' , 'Y' : 'Yellow' , 'G' : 'Gray' , 'B' : 'Black'}
+print(b)
+print(len(b))
+
+
+a = {True : 'Yes' , 1 : 'No' , 1.0 : 'May  be'}
+print(a)
+print(len(a))
+
+
+a = { [ ] : 25}
+b = { ( ) : 25}
+print(b)
+c = { { } : 25}
+d = {'Ramesh' : [9948250500, 9848565090, 9440250404]}
+print(d)
+print(len(d))
+e = {set() : 10.8}
+
+
+a = {}
+print(type(a))
+print(len(a))
+print(a)
+b = dict()
+print(type(b))
+print(len(b))
+print(b)
