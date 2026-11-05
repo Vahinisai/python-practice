@@ -13,3 +13,13 @@ print(id(a))
 a = [25]
 print(a , id(a))
 print(a * a)
+
+
+# Find  outputs
+a = [ ]
+print(type(a))
+print(a)
+print(len(a))
+b = list()
+print(b)
+print(len(b))
