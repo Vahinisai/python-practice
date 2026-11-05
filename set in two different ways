@@ -1,0 +1,11 @@
+# How  to  print  set  in  two  differnet ways  
+a = {25 , True , 'Hyd' , 10.8}
+print('set  with  print  function')
+print(???)
+print('Iterate  thru  set  with  for  loop')
+How  to  iterate  thru  set  with  for  loop
+
+
+#  Find  outputs
+print((32 , 40.6 , [39 , 54.8] , 'Hyd')) 
+print({(32 , 40.6 , [39 , 54.8] , 'Hyd')})
