@@ -1,0 +1,25 @@
+a = ()
+print(type(a))
+print(a)
+print(len(a))
+b = tuple()
+print(b)
+print(len(b))
+
+
+a = (10 , 20 , 30)
+print(a)
+print(id(a))
+a = a * 2  #  Valid / Invalid
+print(a)
+print(id(a))
+
+
+
+a = 25
+b = 10.8
+c = 'Hyd'
+d = True
+x = a , b , c , d
+print(x)
+print(type(x))
