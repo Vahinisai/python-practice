@@ -1,0 +1,21 @@
+a = 'Hyd'
+b = True
+c = 25
+d = 1
+e = 'Hyd'
+s = {a , b , c , d , e}
+print(s)
+print(len(s))
+print(type(s))
+
+
+
+s = {'Hyd',  25,  True,  10.8 }
+print(s)
+a , b , c , d = s
+print(a)
+print(b)
+print(c)
+print(d)
+
+
