@@ -1,3 +1,4 @@
+#Write  a  program  to  determine  area  and  perimeter  of  rectangle
 #area of rectangle (l*b)
 #perimeter of rectangle(2*l+b)
 l = float(input("enter the length:"))
