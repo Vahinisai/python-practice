@@ -1,3 +1,5 @@
+#Write  a  program  to  determine  sum , difference , product , quotient , largest  and  smallest  of  two  numbers.
+Also  find  remainder,  sqrt  of  first  input , power, gcd  and  factorial  of  first  input
 import math
 a = int(input("enter 1st integer number:"))
 b = int(input("enter 2nd integer number:"))
